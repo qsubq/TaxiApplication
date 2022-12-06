@@ -14,4 +14,5 @@
     <string name="forgot_password">ForgotPassword ?</string>
     <string name="create_a_new_account">Create A New Account ?</string>
     <string name="sign_in">Sign in</string>
+    <string name="login">Login</string>
 </resources>
